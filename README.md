@@ -7,7 +7,7 @@ This project involves an in-depth analysis of IMDB movie data using Excel. The a
 To ensure the dataset is clean and ready for analysis:
 
 1. **Remove Duplicates:**
-    - I made sure that there was No duplicates in this data.
+    - I made sure that there was duplicates in this data by rows but there's not duplicates by columns.
 2. **Handle Missing Values:**
     - Handle NULL values in 2 columns: `Language` and `Plot_keywords` by filter them.
 
