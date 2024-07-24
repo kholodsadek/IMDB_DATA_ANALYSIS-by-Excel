@@ -40,4 +40,4 @@ Create charts to visualize the analysis:
     - Use a chart to show the average IMDB scores for different directors.
 
 ## Contact
-Created by `KHOLOD_SADEK`
+Created by [KHOLOD_SADEK] - feel free to contact me at [kholodsadek555@gmail.com].
